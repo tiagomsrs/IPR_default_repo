@@ -3,7 +3,7 @@
 
   <default revision="main" remote="origin" sync-j="4" />
 
-  <project name="tiagomsrs/IPR_Cloud_side" path="./IPR_Cloud_side" />
-  <project name="tiagomsrs/IPR_PC_side" path="./IPR_PC_side" />
-  <project name="IPR_Raspberry_side" path="./IPR_Raspberry_side" />
+  <project name="tiagomsrs/IPR_Cloud_side" path="IPR_Cloud_side" />
+  <project name="tiagomsrs/IPR_PC_side" path="IPR_PC_side" />
+  <project name="IPR_Raspberry_side" path="IPR_Raspberry_side" />
 </manifest>
